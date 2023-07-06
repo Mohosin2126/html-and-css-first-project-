@@ -42,6 +42,9 @@ display: flex;
     color:white;
     align-items: center;
     background-image: url("./images/background.png"),linear-gradient(45deg,rgb(8,8,8),rgb(55, 55, 55)) ;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 #button{
     padding:10px,20px;
