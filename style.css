@@ -117,3 +117,13 @@ font-weight: 200px;
     width:70px;
 
 }
+.servicecontainer{
+   display: flex;
+    justify-content: space-around;
+    align-items:center;
+    padding:20px;
+    background-image: url("./images/background.png"),linear-gradient(45deg,rgb(8,8,8),rgb(55, 55, 55)) ;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
